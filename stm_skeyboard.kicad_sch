@@ -13,6 +13,16 @@
 	(lib_symbols)
 	(wire
 		(pts
+			(xy 160.02 111.76) (xy 160.02 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fb49835-74e5-4de0-811d-c18d26247357")
+	)
+	(wire
+		(pts
 			(xy 142.24 72.39) (xy 184.15 72.39)
 		)
 		(stroke
@@ -20,6 +30,36 @@
 			(type default)
 		)
 		(uuid "1b114a68-c9d8-4ecc-9af8-a3c84244e7e3")
+	)
+	(wire
+		(pts
+			(xy 162.56 109.22) (xy 162.56 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "454da977-3951-47a1-b57c-f5c355023e01")
+	)
+	(wire
+		(pts
+			(xy 142.24 109.22) (xy 162.56 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57996e10-1018-4f4e-9198-c8d0ace35916")
+	)
+	(wire
+		(pts
+			(xy 160.02 130.81) (xy 184.15 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ba10d9a-77e4-48da-b40a-16c24e891660")
 	)
 	(wire
 		(pts
@@ -63,6 +103,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 111.76) (xy 160.02 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c1b5b07-2aed-4321-a89b-5e3ab405b377")
+	)
+	(wire
+		(pts
 			(xy 142.24 90.17) (xy 184.15 90.17)
 		)
 		(stroke
@@ -70,6 +120,16 @@
 			(type default)
 		)
 		(uuid "a7cffa88-cc99-4c66-8f5e-83eaac5ea2a6")
+	)
+	(wire
+		(pts
+			(xy 162.56 128.27) (xy 184.15 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5a669d2-2545-45d0-8b27-22ee5d99961f")
 	)
 	(wire
 		(pts
@@ -91,9 +151,9 @@
 		)
 		(uuid "ecf17861-ff66-447d-ba86-03de3f37c7de")
 	)
-	(text "MCU and POWER(USB)\n"
+	(text "MCU"
 		(exclude_from_sim no)
-		(at 117.348 52.07 0)
+		(at 115.57 55.88 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -110,6 +170,16 @@
 			)
 		)
 		(uuid "2da7982b-3d26-4b4b-9080-e26af8752dec")
+	)
+	(text "USB(POWER+DATA)"
+		(exclude_from_sim no)
+		(at 200.406 113.284 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "daf4f713-1869-40e2-943c-fc00e6a2c596")
 	)
 	(sheet
 		(at 184.15 67.31)
@@ -231,6 +301,65 @@
 		)
 	)
 	(sheet
+		(at 184.15 119.38)
+		(size 31.75 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "58f5f93e-2d55-471f-8e8c-6f4fb02062d7")
+		(property "Sheetname" "usb"
+			(at 184.15 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 184.15 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 184.15 128.27 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d9cb9ab8-6cf8-4b56-833e-f34259f573a8")
+		)
+		(pin "USB_D-" bidirectional
+			(at 184.15 130.81 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e3349b9e-3a5f-4636-9525-0ce6f498764d")
+		)
+		(instances
+			(project "stm_skeyboard"
+				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 91.44 58.42)
 		(size 50.8 57.15)
 		(stroke
@@ -241,7 +370,7 @@
 			(color 255 255 194 1.0000)
 		)
 		(uuid "e572aac2-7f29-4ffb-8a77-de1db0d84645")
-		(property "Sheetname" "main"
+		(property "Sheetname" "mcu"
 			(at 91.44 57.7084 0)
 			(effects
 				(font
@@ -339,6 +468,26 @@
 				(justify right)
 			)
 			(uuid "195af442-7f30-43cd-be03-6022d48d5a1d")
+		)
+		(pin "USB_D+" bidirectional
+			(at 142.24 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5d5cd281-7d4b-4069-9b8b-3cb7b82f82fa")
+		)
+		(pin "USB_D-" bidirectional
+			(at 142.24 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "26b38002-4168-4f7f-82f8-e21870029535")
 		)
 		(instances
 			(project "stm_skeyboard"

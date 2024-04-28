@@ -24,7 +24,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "power_pin_not_driven|1054100|1473200|9e6ecb54-122f-483b-9572-dd8d8d8694e5|00000000-0000-0000-0000-000000000000|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645|",
+      "power_pin_not_driven|914400|977900|aedd6e99-ff94-46cb-bc8d-f6fb26a4fe31|00000000-0000-0000-0000-000000000000|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645|"
+    ],
     "meta": {
       "version": 0
     },
@@ -388,11 +391,15 @@
     ],
     [
       "e572aac2-7f29-4ffb-8a77-de1db0d84645",
-      "main"
+      "mcu"
     ],
     [
       "471ebd7f-24aa-4a86-aa3a-deafb21e0afc",
       "matrix"
+    ],
+    [
+      "58f5f93e-2d55-471f-8e8c-6f4fb02062d7",
+      "usb"
     ]
   ],
   "text_variables": {}
