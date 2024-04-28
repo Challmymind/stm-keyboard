@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "f8cbad95-1fac-4ee0-b4c1-fc27b4678331")
 	(paper "A4")
+	(title_block
+		(title "Keyboard based on STM32L0xx")
+		(date "2024-04-28")
+		(rev "0.1")
+		(company "https://github.com/Challmymind")
+	)
 	(lib_symbols)
 	(wire
 		(pts
@@ -126,7 +132,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "sheets/matrix.kicad_sch"
+		(property "Sheetfile" "matrix.kicad_sch"
 			(at 184.15 104.7246 0)
 			(effects
 				(font
@@ -244,7 +250,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "sheets/mcu.kicad_sch"
+		(property "Sheetfile" "mcu.kicad_sch"
 			(at 91.44 80.5946 0)
 			(effects
 				(font

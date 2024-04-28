@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "27b9543c-f3d8-4cdd-927d-7c98ad7b44e2")
 	(paper "A4")
+	(title_block
+		(title "Keyboard based on STM32L0xx")
+		(date "2024-04-28")
+		(rev "0.1")
+		(company "https://github.com/Challmymind")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
 			(pin_names
