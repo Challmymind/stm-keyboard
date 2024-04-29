@@ -1248,7 +1248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 165.1 119.38 0)
 			(effects
 				(font
@@ -1336,7 +1336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 149.86 119.38 0)
 			(effects
 				(font
@@ -1424,7 +1424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 165.1 83.82 0)
 			(effects
 				(font
@@ -1493,7 +1493,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "155b59fd-7e0c-47b3-b456-e0cc471b2bc5")
-		(property "Reference" "SW7"
+		(property "Reference" "SW6"
 			(at 125.73 92.456 0)
 			(effects
 				(font
@@ -1510,7 +1510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 125.73 91.44 0)
 			(effects
 				(font
@@ -1546,7 +1546,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW7")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -1580,7 +1580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 149.86 101.6 0)
 			(effects
 				(font
@@ -1649,7 +1649,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a91544d-068d-43da-8445-3bffb350b624")
-		(property "Reference" "SW16"
+		(property "Reference" "SW15"
 			(at 186.69 109.982 0)
 			(effects
 				(font
@@ -1666,7 +1666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 186.69 109.22 0)
 			(effects
 				(font
@@ -1702,7 +1702,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW16")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -1736,7 +1736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 134.62 119.38 0)
 			(effects
 				(font
@@ -1805,7 +1805,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f0650fe-9741-4c70-b5e3-604ada55db3b")
-		(property "Reference" "SW13"
+		(property "Reference" "SW12"
 			(at 140.97 110.49 0)
 			(effects
 				(font
@@ -1822,7 +1822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 140.97 109.22 0)
 			(effects
 				(font
@@ -1858,7 +1858,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW13")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -1873,7 +1873,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6378385b-320e-4005-8556-3eae92fdc81f")
-		(property "Reference" "SW14"
+		(property "Reference" "SW13"
 			(at 156.21 109.982 0)
 			(effects
 				(font
@@ -1890,7 +1890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 156.21 109.22 0)
 			(effects
 				(font
@@ -1926,7 +1926,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW14")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -1960,7 +1960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 180.34 83.82 0)
 			(effects
 				(font
@@ -2048,7 +2048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 134.62 83.82 0)
 			(effects
 				(font
@@ -2117,7 +2117,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "93ac2eb1-7d72-4ad3-b02d-bfdf6146c236")
-		(property "Reference" "SW5"
+		(property "Reference" "SW4"
 			(at 171.45 74.676 0)
 			(effects
 				(font
@@ -2134,7 +2134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 171.45 73.66 0)
 			(effects
 				(font
@@ -2170,7 +2170,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW5")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -2204,7 +2204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 165.1 101.6 0)
 			(effects
 				(font
@@ -2273,7 +2273,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ac23161-3dc6-490a-bd19-2af8bba2ea2c")
-		(property "Reference" "SW6"
+		(property "Reference" "SW5"
 			(at 186.69 74.422 0)
 			(effects
 				(font
@@ -2290,7 +2290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 186.69 73.66 0)
 			(effects
 				(font
@@ -2326,7 +2326,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW6")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -2360,7 +2360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 180.34 101.6 0)
 			(effects
 				(font
@@ -2429,7 +2429,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b30c8cb-590e-4286-b0e9-e7e135f68b51")
-		(property "Reference" "SW2"
+		(property "Reference" "SW1"
 			(at 125.73 74.676 0)
 			(effects
 				(font
@@ -2446,7 +2446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 125.73 73.66 0)
 			(effects
 				(font
@@ -2482,7 +2482,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW2")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -2516,7 +2516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 134.62 101.6 0)
 			(effects
 				(font
@@ -2585,7 +2585,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a47f62c1-5e65-4b77-ba9b-a2d76dd0b391")
-		(property "Reference" "SW12"
+		(property "Reference" "SW11"
 			(at 125.73 110.236 0)
 			(effects
 				(font
@@ -2602,7 +2602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 125.73 109.22 0)
 			(effects
 				(font
@@ -2638,7 +2638,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW12")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -2672,7 +2672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 149.86 83.82 0)
 			(effects
 				(font
@@ -2760,7 +2760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 119.38 119.38 0)
 			(effects
 				(font
@@ -2829,7 +2829,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab331b03-d0e0-4ef0-858a-49ca1f4d57cf")
-		(property "Reference" "SW9"
+		(property "Reference" "SW8"
 			(at 156.21 92.202 0)
 			(effects
 				(font
@@ -2846,7 +2846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 156.21 91.44 0)
 			(effects
 				(font
@@ -2882,7 +2882,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW9")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -2897,7 +2897,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b47eab22-4683-4ba5-8113-4da92f22472a")
-		(property "Reference" "SW15"
+		(property "Reference" "SW14"
 			(at 171.45 110.236 0)
 			(effects
 				(font
@@ -2914,7 +2914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 171.45 109.22 0)
 			(effects
 				(font
@@ -2950,7 +2950,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW15")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -2965,7 +2965,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba532724-232d-417b-adef-8577c90b6e00")
-		(property "Reference" "SW8"
+		(property "Reference" "SW7"
 			(at 140.97 92.71 0)
 			(effects
 				(font
@@ -2982,7 +2982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 140.97 91.44 0)
 			(effects
 				(font
@@ -3018,7 +3018,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW8")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -3033,7 +3033,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca9b66af-ec7e-4d94-babd-749cdd589d64")
-		(property "Reference" "SW10"
+		(property "Reference" "SW9"
 			(at 171.45 92.456 0)
 			(effects
 				(font
@@ -3050,7 +3050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 171.45 91.44 0)
 			(effects
 				(font
@@ -3086,7 +3086,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW10")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -3101,7 +3101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d7fa8e20-e181-4ea1-8651-54d8b1f49b6e")
-		(property "Reference" "SW11"
+		(property "Reference" "SW10"
 			(at 186.69 92.202 0)
 			(effects
 				(font
@@ -3118,7 +3118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 186.69 91.44 0)
 			(effects
 				(font
@@ -3154,7 +3154,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW11")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -3188,7 +3188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 119.38 101.6 0)
 			(effects
 				(font
@@ -3257,7 +3257,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ddac373e-9054-41f4-8a99-34fa10fa888d")
-		(property "Reference" "SW3"
+		(property "Reference" "SW2"
 			(at 140.97 74.93 0)
 			(effects
 				(font
@@ -3274,7 +3274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 140.97 73.66 0)
 			(effects
 				(font
@@ -3310,7 +3310,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW3")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -3344,7 +3344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 119.38 83.82 0)
 			(effects
 				(font
@@ -3432,7 +3432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 180.34 119.38 0)
 			(effects
 				(font
@@ -3501,7 +3501,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f773dad8-1eb4-431d-934c-1e9580138a79")
-		(property "Reference" "SW4"
+		(property "Reference" "SW3"
 			(at 156.21 74.422 0)
 			(effects
 				(font
@@ -3518,7 +3518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 156.21 73.66 0)
 			(effects
 				(font
@@ -3554,7 +3554,7 @@
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/471ebd7f-24aa-4a86-aa3a-deafb21e0afc"
-					(reference "SW4")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
