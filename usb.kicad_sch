@@ -2102,7 +2102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "MEASJ105CB5106MF1A01"
 			(at 137.16 93.98 0)
 			(effects
 				(font
@@ -2443,7 +2443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "MEASJ105CB5106MF1A01"
 			(at 193.04 93.98 0)
 			(effects
 				(font
@@ -2577,7 +2577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" " 560112120019 "
 			(at 119.38 88.9 0)
 			(effects
 				(font
@@ -2644,7 +2644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" " 560112120019 "
 			(at 119.38 86.36 0)
 			(effects
 				(font
