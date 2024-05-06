@@ -184,7 +184,8 @@
       "track_widths": [
         0.0,
         0.3,
-        0.5
+        0.5,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -239,11 +240,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "lib_symbol_issues|952500|965200|edc56c66-bee6-4f75-96c8-056607016b2f|00000000-0000-0000-0000-000000000000|||",
-      "similar_labels|1181100|1003300|bef7621f-2862-41f5-b388-c8fd5874f8ea|9beb933e-75a5-4b8a-b88a-110da34a4726|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645",
-      "similar_labels|1282700|800100|6b49ee40-132c-4113-85b6-2353b904be32|9beb933e-75a5-4b8a-b88a-110da34a4726|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645|/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
