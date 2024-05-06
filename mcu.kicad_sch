@@ -3340,7 +3340,7 @@
 	)
 	(hierarchical_label "COL6"
 		(shape output)
-		(at 129.54 140.97 180)
+		(at 129.54 135.89 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3388,19 +3388,19 @@
 	)
 	(hierarchical_label "COL5"
 		(shape output)
-		(at 172.72 95.25 0)
+		(at 129.54 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6c77358c-eb0b-48c6-9d4d-bc8eb2687ca1")
 	)
 	(hierarchical_label "COL8"
 		(shape output)
-		(at 129.54 135.89 180)
+		(at 129.54 140.97 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3460,13 +3460,13 @@
 	)
 	(hierarchical_label "COL9"
 		(shape output)
-		(at 129.54 133.35 180)
+		(at 172.72 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "d2d93322-ea3c-43fb-a1f8-d3c295eebf1b")
 	)
