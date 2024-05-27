@@ -1,4 +1,4 @@
-23159177225167183
+23162610780716047
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94751,3 +94751,17 @@ Cherry MX keyswitch 1.00u PCB
 0
 2
 2
+my_switch
+SW_Cherry_MX_1.00u_PCB_no_support_stems
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+usb_personal
+AMPHENOL_GSB1C411111DS1HR
+
+
+0
+16
+16

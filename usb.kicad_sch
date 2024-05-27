@@ -2892,7 +2892,7 @@
 				)
 			)
 		)
-		(property "Value" "USB4085-GF-A"
+		(property "Value" "GSB1C411111DS1HR"
 			(at 95.25 76.2 0)
 			(effects
 				(font
@@ -2900,7 +2900,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4085"
+		(property "Footprint" "usb_personal:AMPHENOL_GSB1C411111DS1HR"
 			(at 99.06 96.52 0)
 			(effects
 				(font
@@ -2918,7 +2918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+		(property "Description" ""
 			(at 95.25 96.52 0)
 			(effects
 				(font
