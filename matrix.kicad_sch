@@ -2176,7 +2176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 110.49 106.68 0)
 			(effects
 				(font
@@ -2185,7 +2185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 110.49 106.68 0)
 			(effects
 				(font
@@ -2264,7 +2264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 95.25 106.68 0)
 			(effects
 				(font
@@ -2273,7 +2273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 95.25 106.68 0)
 			(effects
 				(font
@@ -2352,7 +2352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 110.49 71.12 0)
 			(effects
 				(font
@@ -2361,7 +2361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 110.49 71.12 0)
 			(effects
 				(font
@@ -2508,7 +2508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 88.9 0)
 			(effects
 				(font
@@ -2517,7 +2517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 201.93 88.9 0)
 			(effects
 				(font
@@ -2596,7 +2596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 171.45 88.9 0)
 			(effects
 				(font
@@ -2605,7 +2605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 171.45 88.9 0)
 			(effects
 				(font
@@ -2684,7 +2684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 95.25 88.9 0)
 			(effects
 				(font
@@ -2693,7 +2693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 95.25 88.9 0)
 			(effects
 				(font
@@ -2840,7 +2840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 171.45 106.68 0)
 			(effects
 				(font
@@ -2849,7 +2849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 171.45 106.68 0)
 			(effects
 				(font
@@ -2928,7 +2928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 106.68 0)
 			(effects
 				(font
@@ -2937,7 +2937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 140.97 106.68 0)
 			(effects
 				(font
@@ -3288,7 +3288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 106.68 0)
 			(effects
 				(font
@@ -3297,7 +3297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 80.01 106.68 0)
 			(effects
 				(font
@@ -3376,7 +3376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 186.69 106.68 0)
 			(effects
 				(font
@@ -3385,7 +3385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 186.69 106.68 0)
 			(effects
 				(font
@@ -3464,7 +3464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 156.21 106.68 0)
 			(effects
 				(font
@@ -3473,7 +3473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 156.21 106.68 0)
 			(effects
 				(font
@@ -3552,7 +3552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 171.45 71.12 0)
 			(effects
 				(font
@@ -3561,7 +3561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 171.45 71.12 0)
 			(effects
 				(font
@@ -3912,7 +3912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 71.12 0)
 			(effects
 				(font
@@ -3921,7 +3921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 125.73 71.12 0)
 			(effects
 				(font
@@ -4000,7 +4000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 88.9 0)
 			(effects
 				(font
@@ -4009,7 +4009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 140.97 88.9 0)
 			(effects
 				(font
@@ -4224,7 +4224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 71.12 0)
 			(effects
 				(font
@@ -4233,7 +4233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 80.01 71.12 0)
 			(effects
 				(font
@@ -4380,7 +4380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 110.49 88.9 0)
 			(effects
 				(font
@@ -4389,7 +4389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 110.49 88.9 0)
 			(effects
 				(font
@@ -4468,7 +4468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 71.12 0)
 			(effects
 				(font
@@ -4477,7 +4477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 201.93 71.12 0)
 			(effects
 				(font
@@ -4624,7 +4624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 88.9 0)
 			(effects
 				(font
@@ -4633,7 +4633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 125.73 88.9 0)
 			(effects
 				(font
@@ -4780,7 +4780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 88.9 0)
 			(effects
 				(font
@@ -4789,7 +4789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 80.01 88.9 0)
 			(effects
 				(font
@@ -4936,7 +4936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 95.25 71.12 0)
 			(effects
 				(font
@@ -4945,7 +4945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 95.25 71.12 0)
 			(effects
 				(font
@@ -5092,7 +5092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 64.77 106.68 0)
 			(effects
 				(font
@@ -5101,7 +5101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 64.77 106.68 0)
 			(effects
 				(font
@@ -5452,7 +5452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 71.12 0)
 			(effects
 				(font
@@ -5461,7 +5461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 140.97 71.12 0)
 			(effects
 				(font
@@ -5812,7 +5812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 156.21 71.12 0)
 			(effects
 				(font
@@ -5821,7 +5821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 156.21 71.12 0)
 			(effects
 				(font
@@ -6036,7 +6036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 64.77 88.9 0)
 			(effects
 				(font
@@ -6045,7 +6045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 64.77 88.9 0)
 			(effects
 				(font
@@ -6192,7 +6192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 106.68 0)
 			(effects
 				(font
@@ -6201,7 +6201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 201.93 106.68 0)
 			(effects
 				(font
@@ -6280,7 +6280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 186.69 71.12 0)
 			(effects
 				(font
@@ -6289,7 +6289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 186.69 71.12 0)
 			(effects
 				(font
@@ -6368,7 +6368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 64.77 71.12 0)
 			(effects
 				(font
@@ -6377,7 +6377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 64.77 71.12 0)
 			(effects
 				(font
@@ -6456,7 +6456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 156.21 88.9 0)
 			(effects
 				(font
@@ -6465,7 +6465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 156.21 88.9 0)
 			(effects
 				(font
@@ -6544,7 +6544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 106.68 0)
 			(effects
 				(font
@@ -6553,7 +6553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 125.73 106.68 0)
 			(effects
 				(font
@@ -6700,7 +6700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 186.69 88.9 0)
 			(effects
 				(font
@@ -6709,7 +6709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT54WX-TP"
+		(property "Datasheet" "621-1N4148W-F"
 			(at 186.69 88.9 0)
 			(effects
 				(font

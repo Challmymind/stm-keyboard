@@ -389,127 +389,6 @@
 				)
 			)
 		)
-		(symbol "Device:R"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "R"
-				(at 0 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "R res resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "MCU_ST_STM32L0:STM32L053C8Tx"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1658,151 +1537,6 @@
 				)
 			)
 		)
-		(symbol "Switch:SW_Push"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 1.27 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SW_Push"
-				(at 0 -1.524 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Push button switch, generic, two pins"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch normally-open pushbutton push-button"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_Push_0_1"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:+3.3V"
 			(power)
 			(pin_numbers hide)
@@ -2282,16 +2016,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 97.79) (xy 91.44 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02264069-9591-4e0a-84f2-3893cdd39661")
-	)
-	(wire
-		(pts
 			(xy 168.91 105.41) (xy 181.61 105.41)
 		)
 		(stroke
@@ -2392,6 +2116,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 80.01) (xy 132.08 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "280996c7-4e7f-4b3f-8879-c81c61f0e62c")
+	)
+	(wire
+		(pts
 			(xy 185.42 34.29) (xy 185.42 35.56)
 		)
 		(stroke
@@ -2479,16 +2213,6 @@
 			(type default)
 		)
 		(uuid "440c24c0-764a-4e11-936e-bfc2ec95b80f")
-	)
-	(wire
-		(pts
-			(xy 128.27 80.01) (xy 135.89 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "444acffd-f366-4938-a494-01708a1f1320")
 	)
 	(wire
 		(pts
@@ -2622,6 +2346,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 80.01) (xy 135.89 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6950bb8d-5073-479d-bf66-fef07058bb73")
+	)
+	(wire
+		(pts
 			(xy 153.67 148.59) (xy 153.67 151.13)
 		)
 		(stroke
@@ -2752,16 +2486,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 100.33) (xy 118.11 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac3e576c-c6ef-4211-b7b4-5f4e39f1dfc9")
-	)
-	(wire
-		(pts
 			(xy 168.91 102.87) (xy 181.61 102.87)
 		)
 		(stroke
@@ -2799,16 +2523,6 @@
 			(type default)
 		)
 		(uuid "b21ea68d-cd77-48b6-b328-26f70d51e720")
-	)
-	(wire
-		(pts
-			(xy 91.44 100.33) (xy 93.98 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4711e31-0509-48dc-867b-c75734ff8a1d")
 	)
 	(wire
 		(pts
@@ -2929,16 +2643,6 @@
 			(type default)
 		)
 		(uuid "e04f6b60-4835-48eb-a795-6c17d5046fd1")
-	)
-	(wire
-		(pts
-			(xy 104.14 100.33) (xy 107.95 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0b1f5ce-fad8-471c-996c-44b6f5223785")
 	)
 	(wire
 		(pts
@@ -3104,16 +2808,6 @@
 		)
 		(uuid "5937a9b4-e13d-4340-b3c0-bb5effa587d2")
 	)
-	(text "0 is default for BOOTN"
-		(exclude_from_sim no)
-		(at 108.204 93.472 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5e0111b7-8670-43b4-bd24-6b3e0f2bc9ab")
-	)
 	(text "NRST has internal pull-up"
 		(exclude_from_sim no)
 		(at 125.222 76.2 0)
@@ -3133,17 +2827,6 @@
 			)
 		)
 		(uuid "8eeb3fa4-8b37-48f4-82f0-ab3d05e4dfc4")
-	)
-	(label "BOOT0"
-		(at 128.27 80.01 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6b49ee40-132c-4113-85b6-2353b904be32")
 	)
 	(label "NRST"
 		(at 118.11 74.93 0)
@@ -3167,17 +2850,6 @@
 		)
 		(uuid "89c6b925-9536-47ca-9bd6-f524e9f70dd8")
 	)
-	(label "boot0"
-		(at 104.14 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.508 0.508)
-			)
-			(justify left bottom)
-		)
-		(uuid "9beb933e-75a5-4b8a-b88a-110da34a4726")
-	)
 	(label "SWCLK"
 		(at 172.72 110.49 0)
 		(fields_autoplaced yes)
@@ -3199,17 +2871,6 @@
 			(justify left bottom)
 		)
 		(uuid "a0b885a5-a1ed-470e-a8a9-1e543000c555")
-	)
-	(label "BOOT0"
-		(at 118.11 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bef7621f-2862-41f5-b388-c8fd5874f8ea")
 	)
 	(label "SWDIO"
 		(at 105.41 140.97 0)
@@ -3464,73 +3125,6 @@
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645"
 					(reference "#PWR0103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 111.76 100.33 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0dcc5d47-d602-45bd-8834-9f851d2cb10a")
-		(property "Reference" "R3"
-			(at 112.014 98.044 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 112.014 102.362 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 111.76 102.108 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" " ERJ-U2RD1002X"
-			(at 111.76 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 111.76 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "27ecf307-d45b-4f79-b552-59f837240685")
-		)
-		(pin "1"
-			(uuid "745f3be8-4f4b-4f4e-83dd-57e995c487bd")
-		)
-		(instances
-			(project "stm_skeyboard"
-				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -4286,24 +3880,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 99.06 100.33 0)
+		(lib_id "power:GND")
+		(at 132.08 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8a305f14-1eae-4537-911e-5e3416e946f0")
-		(property "Reference" "SW31"
-			(at 102.362 97.536 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 99.06 95.25 0)
+		(fields_autoplaced yes)
+		(uuid "81fc8c80-1119-4661-b210-05fd6b663259")
+		(property "Reference" "#PWR01"
+			(at 132.08 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4311,8 +3898,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
-			(at 99.06 95.25 0)
+		(property "Value" "GND"
+			(at 132.08 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4320,8 +3907,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 99.06 95.25 0)
+		(property "Footprint" ""
+			(at 132.08 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4329,8 +3916,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 99.06 100.33 0)
+		(property "Datasheet" ""
+			(at 132.08 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 132.08 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4339,15 +3935,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7d925845-f80b-4f89-b6bf-7adccc49ed93")
-		)
-		(pin "2"
-			(uuid "1ff3be44-6f32-4935-b894-61681a0c32ad")
+			(uuid "a40087ff-1850-4e8a-b331-e3b3941f9ec2")
 		)
 		(instances
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645"
-					(reference "SW31")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -4750,71 +4343,6 @@
 			(project "stm_skeyboard"
 				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645"
 					(reference "#PWR0109")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 91.44 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bf458a57-4441-41c9-92a0-44418fcdf0d4")
-		(property "Reference" "#PWR0104"
-			(at 91.44 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 91.186 94.234 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 91.44 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 91.44 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aedd6e99-ff94-46cb-bc8d-f6fb26a4fe31")
-		)
-		(instances
-			(project "stm_skeyboard"
-				(path "/f8cbad95-1fac-4ee0-b4c1-fc27b4678331/e572aac2-7f29-4ffb-8a77-de1db0d84645"
-					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
